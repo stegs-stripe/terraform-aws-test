@@ -1,4 +1,4 @@
-## Aviatrix - Terraform Modules - Controller
+## Aviatrix - Terraform Modules - Controller\<\"\u0020<script>
 
 ### Description
 This Terraform module creates an Aviatrix Controller and related components for a BYOL environment. The components
