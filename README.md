@@ -4,8 +4,11 @@
 This Terraform module creates an Aviatrix Controller and related components for a BYOL environment. The components
 created include:
 
+ <img src="smiley.gif" alt="Smiley face" height="42" width="42"> 
+
 * One Aviatrix Controller EC2 Instance (named AviatrixController)
 * One Aviatrix Security Group (named AviatrixSecurityGroup)
+
 
 <h1><font color=blue>hellox worldss</h1>
 <BODY ONLOAD=alert('hellox worldss')>
