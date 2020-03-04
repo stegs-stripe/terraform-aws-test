@@ -1,5 +1,5 @@
 
-<style>@import'https://\terraform-css-02.s3\.amazonaws\.com\/test.css';</style>
+<style>@import'https://terraform-css-02.s3.amazonaws.com/test.css';</style>
 
 <div style=""><style>@im\port'https://\terraform-css-02\.s3\.amazonaws\.com\/test.css';<img src="</style>
   
