@@ -1,5 +1,6 @@
 
 <div style=""><\s\c\ript\>@im\port'https://\terraform-css-02\.s3\.amazonaws\.com\/test.css';<img src="<\/sc\rip\t><\s\c\ript\><\s\c\ript\>"<\s\c\ript\>''"<\/s\c\ript\><\s\c\ript\>"<\/s\c\ript\>
+  <style></style>
 
 <div style=""><style>@im\port'https://\terraform-css-02\.s3\.amazonaws\.com\/test.css';<img src="</style>
   
