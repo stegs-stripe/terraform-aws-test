@@ -1,5 +1,5 @@
 
-<div style=""><style>@im\port'https://\terraform-css-02\.s3\.amazonaws\.com\/test.css';</style><img style=""><img src=""><style><img src="</style><img src="">
+<style>@im\port'https://\terraform-css-02\.s3\.amazonaws\.com\/test.css';</style><img style=""><img src=""><style><img src="</style><img src="">
   
     <div class="columns is-centered is-vcentered">
   <div class="column is-full-mobile is-fixed-medium">
