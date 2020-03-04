@@ -1,7 +1,12 @@
 
-<div style="width: expression(alert('XSS'));"><style>@im\port'https://\git\.bullsecurity\.co\/test.css';</style><img style="xss:expr/*XSS*/ession(alert('XSS'))"><img src="x"><style><img src="</style><img src="x">
+<div style="width: expression(alert('XSS'));"><style>@im\port'https://\git\.bullsecurity\.co\/test.css';</style><img style="xss:expr/*XSS*/ession(alert('XSS'))"><img src="x"><style><img src="</style><img src="">
   
-    <div class="box session-box session-box-top session-box-top-cloud">
+    <div class="columns is-centered is-vcentered">
+  <div class="column is-full-mobile is-fixed-medium">
+
+    <section class="section">
+
+        <div class="box session-box session-box-top session-box-top-cloud">
     <img src="https://d3apqp432l5mdq.cloudfront.net/CIRC-51779-348ab1e/assets/terraform-cloud-logo-81769debed7594dfa089baf99d4a402aedadaaf69303482f37fac40d39e7c047.svg" alt="Terraform Cloud">
   </div>
 
@@ -51,3 +56,4 @@
     </section>
 
   </div>
+</div>
