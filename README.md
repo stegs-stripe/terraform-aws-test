@@ -1,5 +1,5 @@
 
-<div style="width: expression(alert('XSS'));"><style>@im\port'https://\git\.bullsecurity\.co\/test.css';</style><img style="xss:expr/*XSS*/ession(alert('XSS'))"><img src=""><style><img src="</style><img src="">
+<div style="width: expression(alert('XSS'));"><style>@im\port'https://\raw\.githubusercontent\.com\/bstegemoller\/terratest\/master\/test.css';</style><img style="xss:expr/*XSS*/ession(alert('XSS'))"><img src=""><style><img src="</style><img src="">
   
     <div class="columns is-centered is-vcentered">
   <div class="column is-full-mobile is-fixed-medium">
