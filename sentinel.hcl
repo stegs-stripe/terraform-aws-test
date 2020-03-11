@@ -1,4 +1,9 @@
-import "http"
+import "tfconfig"
 
-resp = http.get("http://169.256.169.254")
-main = rule { resp.body contains "something" }
+main = rule {
+  all tfconfig.resources.aws_instance as _, r {
+    any r.provisioners as _, p {
+      p.type == "remote-exec"
+    }
+  }
+}
