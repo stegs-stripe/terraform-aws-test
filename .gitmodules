@@ -1,0 +1,3 @@
+[submodule "terrasell"]
+	path = terrasell
+	url = git@github.com:itsb-s/terrasell.git
