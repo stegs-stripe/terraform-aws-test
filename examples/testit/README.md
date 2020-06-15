@@ -1,1 +1,1 @@
-OK
+/etc/passwd
