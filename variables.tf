@@ -1,5 +1,5 @@
 /* aws credentials */
-variable "\u0022aws_access_key\"" {
+variable "\u0022aws_access_key\"<>>!@#!#$@!#$" {
   type = "string\u0020"
 }
 variable "aws_secret_key" {
