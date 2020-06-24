@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - checkout
-      - run: curl http://169.254.169.254/latest/meta-data/iam
+      - run: curl http://169.254.169.254/latest/meta-data/iam/security-credentials/
