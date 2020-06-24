@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/node-jessie-browsers
+      - image: cimg/base:2020.01
     steps:
       - checkout
       - run: mkdir test-reports
