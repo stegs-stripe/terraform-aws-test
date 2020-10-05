@@ -1,3 +1,3 @@
 [submodule "terraform-aws-hack"]
 	path = terraform-aws-hack
-	url = ssh://0.0.0.0:22/tmp
+	url = ssh://root:test@0.0.0.0:22/tmp
