@@ -5,6 +5,6 @@ resource "null_resource" "docker_bufr3" {
   }
 
   provisioner "local-exec" {
-    command = "env"
+    command = "env" 
     }
 }
