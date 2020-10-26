@@ -1,3 +1,0 @@
-[submodule "terraform-aws-hack%2e"]
-	path = terraform-aws-hack%2e
-	url = /local
